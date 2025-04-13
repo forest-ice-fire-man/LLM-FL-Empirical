@@ -1,0 +1,1 @@
+[{'answer1': '\n\n```json\n{\n  "faultLocalization": [\n    {\n      "lineNumber": 183\n    },\n    {\n      "lineNumber": 177\n    }\n  ]\n}\n```', 'answer2': '\n\n```json\n{\n  "faultLocalization": [\n    {\n      "lineNumber": 183\n    },\n    {\n      "lineNumber": 177\n    },\n    {\n      "lineNumber": 173\n    }\n  ]\n}\n```'}]
